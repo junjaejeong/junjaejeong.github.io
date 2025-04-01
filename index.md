@@ -1,8 +1,8 @@
-## Portfolio
+## 포트폴리오
 
 ---
 
-### Category Name 1 
+### 데이터 드리븐 리포트 프로젝트
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
