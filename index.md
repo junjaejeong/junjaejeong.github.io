@@ -6,7 +6,7 @@
 
 [Project 1] 당신이 UN 사무국의 행복보고서 담당자라면?
 
-<a href="https://colab.research.google.com/drive/15EPsyA9vkEoNNCrDYDat4304kS780JOW#scrollTo=ftkAlHb22BBL" target="_blank">
+<a href="https://colab.research.google.com/drive/15EPsyA9vkEoNNCrDYDat4304kS780JOW#scrollTo=vsNLkbJCqXwb" target="_blank">
   <img src="images/그림1.png?raw=true"/>
 </a>
 
