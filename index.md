@@ -4,8 +4,11 @@
 
 ### 데이터 드리븐 리포트 프로젝트
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1] 당신이 UN 사무국의 행복보고서 담당자라면?
+
+<a href="https://colab.research.google.com/drive/15EPsyA9vkEoNNCrDYDat4304kS780JOW#scrollTo=ftkAlHb22BBL" target="_blank">
+  <img src="images/그림1.png?raw=true"/>
+</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
