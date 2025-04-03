@@ -11,9 +11,11 @@
 </a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2] MZ 세대와 기성세대의 세대 간 갈등이 우리 조직에 문제가 됩니까?
 
+<a href="https://colab.research.google.com/drive/1zClqUvaDROHntndLc0ZVe56UwSxYANwq#scrollTo=uA15nHjT3FmY" target="_blank">
+  <img src="images/그림2.png?raw=true"/>
+</a>
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
