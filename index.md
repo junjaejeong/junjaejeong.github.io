@@ -2,6 +2,9 @@
 
 ---
 ### AI in HRD
+<a href="[https://colab.research.google.com/drive/15EPsyA9vkEoNNCrDYDat4304kS780JOW#scrollTo=vsNLkbJCqXwb](https://kgm-course-recommender.streamlit.app/)" target="_blank">
+  <img src="images/그림3.png?raw=true"/>
+</a>
 
 ---
 ### 데이터 드리븐 리포트 프로젝트
