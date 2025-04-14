@@ -3,7 +3,7 @@
 ---
 ### AI in HRD
 
-[Project 1] Keyword 기반 과정 추천 웹페이지
+[Project 1] Keyword 기반 과정 추천 웹페이지(25년 4월 예시)
 
 <a href="https://kgm-course-recommender.streamlit.app/" target="_blank">
   <img src="images/그림3.PNG?raw=true"/>
