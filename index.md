@@ -3,7 +3,7 @@
 ---
 ### AI in HRD
 
-[Project 1] 빨리 찾는 나에게 맞는 교육과정
+[Project 1] Keyword 기반 과정 추천 웹페이지
 
 <a href="https://kgm-course-recommender.streamlit.app/" target="_blank">
   <img src="images/그림3.PNG?raw=true"/>
