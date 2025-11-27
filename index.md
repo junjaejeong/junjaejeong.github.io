@@ -6,7 +6,7 @@
 [Project 교육팀 연간 예산 관리 대시보드]
 
 <a href="https://junjaejeong.github.io/2026-buget/" target="_blank">
-  <img src="images/그림3.PNG?raw=true"/>
+  <img src="images/예산관리.PNG?raw=true"/>
 </a>
 
 ---
