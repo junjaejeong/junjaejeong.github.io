@@ -32,7 +32,7 @@
 </div>
 
 ---
-### 기고 및 영상 콘텐츠 제작 현황
+### 기고문 작성 현황
   <div>
     - (2025.09) 월간 인사관리 / HR 부문 AI 활용과 전망<a href="https://drive.google.com/file/d/1eNkEHtO6dtTFEHyWDQs7UNuwKfq8W6QD/view?usp=drive_link/" target="_blank">(기고문)</a><br>
     - (2024.07) 뉴인 / HRD 담당자를 위한 AI 활용가이드<a href="https://drive.google.com/file/d/1uzAgxmsGDicUmFb3h37rU_geSNUD8DgT/view?usp=drive_link/" target="_blank">(기고문)</a><br>
