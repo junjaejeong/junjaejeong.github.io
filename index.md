@@ -14,11 +14,10 @@
   </div>
 
 ---
-### 2025 강의 및 기고 현황
+### 강의 현황
   <div>
     - (2025.11) 생성형 AI를 활용한 교육과정 기획 및 운영 사례(6H) / 인사관리협회<br>
     - (2025.10) (2H) / 경기도인재개발원<br>
-    - (2025.09) 월간 인사관리 / HR 부문 AI 활용과 전망<a href="https://junjaejeong.github.io/2026-buget/" target="_blank">(기고문)</a><br>
     - (2025.08) HR담당자 AI활용 사례 공개강좌(2H) / YBM 연수원<br>
     - (2025.08) 생성형 AI를 활용한 교육과정 기획 및 운영 사례(6H) / 인사관리협회<br>
     - (2025.08) KGM의 AI를 활용한 교수설계 및 교육운영 사례(0.5H) / 396차 HRD포럼 우수사례 / 한국HRD협회<br>
@@ -30,9 +29,13 @@
     - (2025.04) (2H) / 경기도인재개발원<br>
     - (2025.03) AI로 에이스되기(신규공무원)(2H) / 경기도인재개발원<br>
     - (2025.02) AI로 에이스되기(신규공무원)(2H) / 경기도인재개발원<br>
-  </div>
 </div>
 
+---
+### 기고 및 영상 콘텐츠 제작 현황
+  <div>
+    - (2025.09) 월간 인사관리 / HR 부문 AI 활용과 전망<a href="https://junjaejeong.github.io/2026-buget/" target="_blank">(기고문)</a><br>
+    - (2024.07) 뉴인 / HRD 담당자를 위한 AI 활용가이드<a href="https://drive.google.com/file/d/1uzAgxmsGDicUmFb3h37rU_geSNUD8DgT/view?usp=drive_link/" target="_blank">(기고문)</a><br>
 
 ---
 [Analytics] 당신이 UN 사무국의 행복보고서 담당자라면?
