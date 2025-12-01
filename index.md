@@ -38,7 +38,7 @@
     - (2025.09) 월간 인사관리 / HR 부문 AI 활용과 전망<a href="https://drive.google.com/file/d/1eNkEHtO6dtTFEHyWDQs7UNuwKfq8W6QD/view?usp=drive_link/" target="_blank">(기고문)</a><br>
     - (2024.07) 뉴인 / HRD 담당자를 위한 AI 활용가이드<a href="https://drive.google.com/file/d/1uzAgxmsGDicUmFb3h37rU_geSNUD8DgT/view?usp=drive_link/" target="_blank">(기고문)</a><br>
     - (2022.11) 텍스트마이닝기법을 활용한 국내 공무원 교육동향 분석 - 최근 10년 교육내용을 중심으로 <a href="https://www.youtube.com/watch?v=5vwumQgdja4&t=417s/" target="_blank">(발표영상)</a><br>
-    - (2017.02) 중소기업 구성원들의 조직지원인식이 학습조직 구축수준에 미치는 영향: 정서적 조직몰입의 매개효과<a href="https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002227282/" target="_blank">(논문)</a><br>
+    - (2017.02) 중소기업 구성원들의 조직지원인식이 학습조직 구축수준에 미치는 영향: 정서적 조직몰입의 매개효과<a href="https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002476643/" target="_blank">(논문)</a><br>
 
 ---
 [Analytics] 당신이 UN 사무국의 행복보고서 담당자라면?
