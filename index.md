@@ -11,7 +11,7 @@
     - 교육팀 연간 예산 관리 대시보드 제작<a href="https://junjaejeong.github.io/2026-buget/" target="_blank">(보러가기)</a><br>
     - 회장님 북콘서트 기획 및 홍보 웹페이지 제작<a href="https://kgm-bookconcert.replit.app/" target="_blank">(보러가기)</a><br>
     - Keyword 기반 과정 추천 웹페이지 제작
-    - 임직원 자녀 영어캠프 기획 및 운영(약 60명)
+    - 임직원 자녀 영어캠프 기획 및 운영
   </div>
 
 ---
