@@ -13,6 +13,7 @@
     - 임직원 자녀 영어캠프 기획 및 운영(약 60명)
   </div>
 
+---
 ### 2025 강의 및 기고 현황
   <div>
     - (2025.11) 생성형 AI를 활용한 교육과정 기획 및 운영 사례(6H) / 인사관리협회<br>
@@ -49,16 +50,6 @@
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
