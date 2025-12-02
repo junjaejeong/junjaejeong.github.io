@@ -8,7 +8,7 @@
     - 소통활성화 프로그램 'KGM Live ON' 기획 및 운영(총 4회차/참가자 약 700명 / 만족도 4.5점)<br>
     - 소통활성화 프로그램 'KGM Live ON' 사전 설문 텍스트 분석 실시 및 대표이사 보고(2025.10)<br>
     - 팀장 리더십 과정 결과 분석 자동화 시스템 설계 및 개발<br>
-    - 교육팀 연간 예산 관리 대시보드 제작<a https://junjaejeong.github.io/2026-buget-viewer/" target="_blank">(보러가기)</a><br>
+    - 교육팀 연간 예산 관리 대시보드 제작<a href="https://junjaejeong.github.io/2026-buget-viewer/" target="_blank">(보러가기)</a><br>
     - 회장님 북콘서트 기획 및 홍보 웹페이지 제작<a href="https://kgm-bookconcert.replit.app/" target="_blank">(보러가기)</a><br>
     - Keyword 기반 과정 추천 웹페이지 제작
     - 임직원 자녀 영어캠프 기획 및 운영
